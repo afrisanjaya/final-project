@@ -295,3 +295,5 @@ export const hrABI =[
     "function getProduct(uint id) public view returns (uint price, uint amount, string memory name)",
     "function getBalance(address _owner) view returns (uint256 balance)"
 ]
+
+export const contractAddress = "0x7fa58075537b6a22327aF41E4BFF362fD8AE9266"
